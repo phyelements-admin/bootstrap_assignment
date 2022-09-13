@@ -1,0 +1,111 @@
+.dropdown:hover .dropdown-menu{
+    color:orange;
+    display: block;
+}
+.dropdown-menu{
+    margin-top: 0;
+}
+#navbarDropdown{
+    color:rgb(9, 9, 9);
+}
+#Esg{
+    color:rgb(9, 9, 9);
+}
+#form{
+    background-color: rgb(68, 68, 73);
+}
+#wtb {
+    color:white;
+}
+#Blog {
+    color:white;
+}
+#Dialight{
+    font-size:38px;
+    align-content: center;
+    padding-left: 100px;
+    padding-bottom: 50px;
+    padding-top: 0px;
+    font-weight: 600;
+    color:rgb(12, 3, 114);
+    
+}
+#footer{
+    background-color: rgb(3, 3, 72);
+
+}
+#id1{
+    font-size:large;
+    font-weight: bold;
+    color:rgb(244, 242, 242);
+}
+#id2{
+    font-size:small;
+    color:rgb(244, 242, 242);
+}
+#id1:hover,#id2:hover{
+    color:gray;
+}
+#getintouch{
+    padding-top: 15px;
+    color:rgb(165, 165, 233);
+    font-size:x-large;
+    text-align: center;
+}
+
+#contactbtn{
+    background-color:orange;
+    border-color:orange; 
+    width:205px;
+    font-size:22px;
+    font-weight: 700;
+    margin-top: 20px;
+}
+#wherebtn{
+    background-color:orange;
+    border-color:orange; 
+    width:205px;
+    font-size:22px;
+    font-weight: 700;
+}
+
+#headermenu{
+    font-weight: 700;
+    color:rgb(12, 3, 114);
+    font-size:17px;
+}
+.navbar-nav > li{
+    padding-left:10px;
+    padding-right:10px;
+  }
+  
+  #wtb{
+    padding-left:0px;
+    padding-right:0px;
+  }
+  #searchbox{
+    padding-top: 10px;
+    padding-left: 130px;
+    width: 300px;;
+  }
+  #text {
+    color:white;
+  }
+  #inputGroupSelect02{
+    background-color: rgb(94, 89, 118);
+    color:white;
+  }
+  #description{
+    text-align:center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+  }
+  #icons{
+    color: white;
+    padding-top: 40px;
+    padding-left: 18px;
+    width:26px;
+  }
+  #icons:hover{
+    color:orange;
+  }
